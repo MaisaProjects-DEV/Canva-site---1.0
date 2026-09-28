@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');/*FONTE PARA TITULO*/
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Roboto+Slab:wght@100..900&display=swap');/*FONTE PARA PARAGRAFO*/
+
+
+body{
+
+
+margin: 0%;
+padding: 0%;
+
+}
+
+
+header{/*"banner" do site*/
+
+    background-color:#3a4b56;   
+    width: 1500px;
+    height: 200px   ;
+    text-align: center;
+    border-bottom-color:#000000;
+
+    
+
+}/*tamanho do banner da pagina de introdução*/
+
+nav{
+
+    margin-top: 0%;
+
+}
+ h1{/*TITULO*/
+    
+    margin: 0%;
+    font-size: 65px;
+    font-family: "Gravitas One", serif;/*fonte do titulo*/
+    font-weight: 400;
+    font-style: normal;
+    padding:50px;
+    margin-right: 130px;
+    padding-bottom: 20px;
+
+    
+
+ }
+
+
+ a{/*ancora das paginas*/
+
+ 
+    font-size: 20px;
+    color: #e3e3e3;
+    
+    
+ }
+ 
+p{
+
+font-size: 25px;/*tamanho da fonte do paragrafo 1*/
+margin-left: 100px;/*tamanha da margem do paragrafo 1 */
+padding-top: 40px;/*tamanha da escpaço interno do paragrafo 1*/
+
+
+}
+
+h2{
+
+    font-size: 28px;/*tamanho da fonte do "Subtitulo"*/
+    margin-left: 150px;/*tamanha da margem "subtitulo"*/
+    padding-top: 40px;
+    
+}
+
+
+#texto-sobre{
+
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+#frases-impacto{
+
+    margin-left: 50px;/*tamanha da margem do paragrafo 1 */
+    padding-top: 40px;
+
+}
+
+#INTRODUÇÃO{
+
+
+margin-left:60px;
+margin-right: 30px;
+
+
+
+
+
+
+}
+
+
+
+#PERSONAGENS{
+
+
+    margin-left: 200px;
+    margin-right: 40px;
+
+
+
+
+
+
+
+}
+
+#TEMPORADAS{
+
+
+
+    margin-left: 267px;
+    margin-right: 120px;
+
+
+
+
+
+
+
+
+}
+img{
+
+
+
+
+
+
+
+}
