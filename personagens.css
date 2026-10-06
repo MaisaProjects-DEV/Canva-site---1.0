@@ -1,0 +1,303 @@
+
+
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: ;
+    
+}
+
+
+
+
+
+
+h1{
+
+font-size: xx-large;
+margin-top: 30px;
+text-align: center;
+
+}
+
+
+a{/*ancora das paginas*/
+
+ 
+    font-size: 20px;
+    color: #e3e3e3;/*cor da ancora*/
+   
+}
+
+a:hover{
+
+    color: #1c1e21;/*cor da ancora*/
+    background-color: #e3e3e3;
+    border-radius: 15px;
+    width: 90px;
+
+
+}
+
+    nav{
+
+
+        margin-top: 30px;
+        text-align: center;
+
+
+    }
+
+    #INTRODUÇÃO{/*Link ancora*/
+
+
+        margin-left:20px;
+        margin-right: 30px;
+        
+        
+        }
+        
+        
+        
+        #PERSONAGENS{/*Link ancora*/
+        
+        
+            margin-left: 200px;
+            margin-right: 40px;
+        
+        
+        
+        
+        }
+        
+        #TEMPORADAS{/*Link ancora*/
+        
+        
+        
+            margin-left: 200px;
+            margin-right: 40px;
+        
+        
+        }
+
+
+div{
+
+background-color: #1c1e21;
+width: 1200px;
+height: 420px;
+border-radius: 15px;
+margin-top: 20px;
+margin-left: 80px;
+
+}
+
+
+/*----------------------------------------------------------personagens masculinos-----------------------------------------------------*/
+
+#serena{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+}
+
+#june{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+
+
+}
+
+#lydia{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 70px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84) /*20px 10px 30px rgba(100,200,300, 0.5);*/
+
+
+
+
+}
+
+#nome{
+
+width: 180px;
+height: 30px;
+background-color: #515a56;
+color: #e3e3e3;
+
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+font-size: 20px;
+margin-top: 320px;
+margin-right: 50px;
+
+
+}
+
+/*----------------------------------------------------------personagens -  comandates -----------------------------------------------------*/
+
+
+#JosephLawrence{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+margin-top: 80px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+}
+
+#NickBlaine{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+
+
+}
+
+#FredWaterford{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 70px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84) /*20px 10px 30px rgba(100,200,300, 0.5);*/
+
+}
+
+#nome{
+
+width: 180px;
+height: 30px;
+background-color: #515a56;
+color: #e3e3e3;
+
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+font-size: 20px;
+margin-top: 320px;
+margin-right: 50px;
+
+
+}
+
+
+/*----------------------------------------------------------personagens - Mei day -----------------------------------------------------*/
+
+#LukeBanloke{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+margin-top: 80px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+}
+
+#LukeBanloke:hover{
+
+    background-color: #c6cacf;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+margin-top: 80px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+
+
+}
+
+#MarkTuello{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+
+
+}
+
+#MarkTuello:hover{
+
+    background-color: #c6cacf;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+margin-top: 80px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+
+
+}
+
+#MoiraStrand{
+
+    background-color: #a7acb3;
+    width: 310px;
+    height: 380px;
+margin-left: 70px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84) /*20px 10px 30px rgba(100,200,300, 0.5);*/
+
+}
+
+#MoiraStrand:hover{
+
+    background-color: #c6cacf;
+    width: 310px;
+    height: 380px;
+margin-left: 60px;
+margin-top: 80px;
+display: inline-block;
+box-shadow:9px 7px 10px 5px rgba(0,0,0,0.84)
+
+
+}
+#nome{
+
+width: 180px;
+height: 30px;
+background-color: #515a56;
+color: #e3e3e3;
+
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+text-align: center;
+font-size: 20px;
+margin-top: 320px;
+margin-right: 50px;
+
+
+}

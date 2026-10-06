@@ -2,11 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Roboto+Slab:wght@100..900&display=swap');/*FONTE PARA PARAGRAFO*/
 
 
-body{
+*{
 
 
 margin: 0%;
 padding: 0%;
+box-sizing: border-box;
+
 
 }
 
@@ -25,22 +27,28 @@ header{/*"banner" do site*/
 
 nav{
 
-    margin-top: 0%;
+    margin-top: 0px;
+    margin-right:130px;
+
 
 }
- h1{/*TITULO*/
-    
-    margin: 0%;
-    font-size: 65px;
-    font-family: "Gravitas One", serif;/*fonte do titulo*/
-    font-weight: 400;
-    font-style: normal;
-    padding:50px;
-    margin-right: 130px;
-    padding-bottom: 20px;
+img{ /*Titulo*/
 
+    width:700px;
+    margin-top: 40px;
+    margin-right: 160px;
     
+    
+    }
 
+ #Figure{/*fIGURA DA AIA*/
+
+
+    width: 270px;
+    height: 400px;
+    margin-top: 37px;
+    margin-left: 1050px;
+    
  }
 
 
@@ -48,10 +56,21 @@ nav{
 
  
     font-size: 20px;
-    color: #e3e3e3;
+    color: #e3e3e3;/*cor da ancora*/
     
     
  }
+
+
+ a:hover{
+
+    color: #1c1e21;/*cor da ancora*/
+    background-color: #e3e3e3;
+    border-radius: 15px;
+    width: 90px;
+
+
+}
  
 p{
 
@@ -71,7 +90,7 @@ h2{
 }
 
 
-#texto-sobre{
+#texto-sobre{/*Texto de introdução*/
 
     font-family: "Roboto Slab", serif;
     font-optical-sizing: auto;
@@ -83,26 +102,22 @@ h2{
 #frases-impacto{
 
     margin-left: 50px;/*tamanha da margem do paragrafo 1 */
-    padding-top: 40px;
+    padding-top: 20px;
 
 }
 
-#INTRODUÇÃO{
+#INTRODUÇÃO{/*Link ancora*/
 
 
-margin-left:60px;
+margin-left:20px;
 margin-right: 30px;
 
 
-
-
-
-
 }
 
 
 
-#PERSONAGENS{
+#PERSONAGENS{/*Link ancora*/
 
 
     margin-left: 200px;
@@ -111,17 +126,20 @@ margin-right: 30px;
 
 
 
+}
 
+#TEMPORADAS{/*Link ancora*/
+
+
+
+    margin-left: 200px;
+    margin-right: 40px;
 
 
 }
 
-#TEMPORADAS{
 
-
-
-    margin-left: 267px;
-    margin-right: 120px;
+/*---------------------------------------------------------------------------------------PAGINA DE PERSONAGENS-------------------------------------------------------------------------------------*/
 
 
 
@@ -130,8 +148,6 @@ margin-right: 30px;
 
 
 
-}
-img{
 
 
 
@@ -139,4 +155,7 @@ img{
 
 
 
-}
+
+
+
+
